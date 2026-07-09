@@ -14,9 +14,7 @@
 
 <br><br>
 
-<a href="https://github.com/keysos">
-  <img src="https://github-readme-stats.vercel.app/api?username=keysos&show_icons=true&theme=dark" alt="GitHub Stats" />
-</a>
+[![Keysos' GitHub stats](https://github-readme-stats.vercel.app/api?username=keysos)](https://github.com/keysos/github-readme-stats)
 
 <br><br>
 
