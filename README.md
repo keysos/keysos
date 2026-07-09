@@ -1,12 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-* 🌱 I’m currently studying web development
-* 🔭 I’m working on completing courses and improving my projects
-* 💼 I’m looking for an opportunity to gain experience and grow as a developer
+- 🌱 I'm currently studying web development
+- 🔭 I'm working on completing courses and improving my projects
+- 💼 I'm looking for an opportunity to gain experience and grow as a developer
 
 ---
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/Uj5LJk7GsASkMQqaX3/giphy.gif" width="400" alt="Coding gif" />
+
+<br><br>
 
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=keysos&theme=dark" alt="GitHub Streak" />
@@ -14,15 +18,13 @@
 
 ### 🛠️ Technologies
 
-<div align="center">
-  
 <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,git,github,vscode" />
-
-</div>
 
 <br><br>
 
-[![Keysos' GitHub stats](https://github-readme-stats.vercel.app/api?username=keysos&show_icons=true&theme=dark)](https://github.com/keysos)
+<a href="https://github.com/keysos">
+  <img src="https://github-readme-stats.vercel.app/api?username=keysos&show_icons=true&theme=dark" alt="Keysos' GitHub stats" />
+</a>
 
 <br><br>
 
