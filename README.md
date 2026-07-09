@@ -8,22 +8,16 @@
 
 <div align="center">
 
+### 🛠️ Technologies
+
+<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,git,github,vscode" />
+
 <img src="https://media.giphy.com/media/Uj5LJk7GsASkMQqaX3/giphy.gif" width="400" alt="Coding gif" />
 
 <br><br>
 
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=keysos&theme=dark" alt="GitHub Streak" />
-</a>
-
-### 🛠️ Technologies
-
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,git,github,vscode" />
-
-<br><br>
-
-<a href="https://github.com/keysos">
-  <img src="https://github-readme-stats.vercel.app/api?username=keysos&show_icons=true&theme=dark" alt="Keysos' GitHub stats" />
 </a>
 
 <br><br>
