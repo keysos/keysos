@@ -20,10 +20,6 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/keysos">
-  <img src="https://github-readme-stats.vercel.app/api?username=keysos&show_icons=true&theme=dark" alt="Keysos GitHub Stats" />
-</a>
-
 <br><br>
 
 <a href="https://git.io/streak-stats">
