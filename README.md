@@ -12,6 +12,14 @@
   <img src="https://streak-stats.demolab.com?user=keysos&theme=dark" alt="GitHub Streak" />
 </a>
 
+### 🛠️ Technologies
+
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,git,github,vscode" />
+
+</div>
+
 <br><br>
 
 [![Keysos' GitHub stats](https://github-readme-stats.vercel.app/api?username=keysos&show_icons=true&theme=dark)](https://github.com/keysos)
