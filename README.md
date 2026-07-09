@@ -14,7 +14,7 @@
 
 <br><br>
 
-[![Keysos' GitHub stats](https://github-readme-stats.vercel.app/api?username=keysos)](https://github.com/keysos/github-readme-stats)
+[![Keysos' GitHub stats](https://github-readme-stats.vercel.app/api?username=keysos&show_icons=true&theme=dark)](https://github.com/keysos)
 
 <br><br>
 
