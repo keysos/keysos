@@ -8,11 +8,21 @@
 
 <div align="center">
 
-### 🛠️ Technologies
+## 🛠️ Technologies
 
 <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,git,github,vscode" />
 
+<br><br>
+
 <img src="https://media.giphy.com/media/Uj5LJk7GsASkMQqaX3/giphy.gif" width="400" alt="Coding gif" />
+
+<br><br>
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/keysos">
+  <img src="https://github-readme-stats.vercel.app/api?username=keysos&show_icons=true&theme=dark" alt="Keysos GitHub Stats" />
+</a>
 
 <br><br>
 
@@ -22,8 +32,10 @@
 
 <br><br>
 
+## 🎧 Spotify
+
 <a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pd4fvd203a52t69af2h5v07m9&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Profile" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Profile" />
 </a>
 
 </div>
