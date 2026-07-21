@@ -101,7 +101,7 @@ Pinterest-inspired web application.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,postgres" />
+<img src="https://skillicons.dev/icons?i=javascript,html,css" />
 
 <br><br>
 
