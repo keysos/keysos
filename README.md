@@ -61,7 +61,7 @@
 
 <h3>🎬 CineSearch</h3>
 
-Movie application using TMDb API.
+Movie search application using TMDb API.
 
 <br><br>
 
@@ -107,7 +107,7 @@ Pokémon team builder using PokéAPI.
 
 <h3>📌 Pinterest Project</h3>
 
-Pinterest-inspired web application.
+Pinterest-inspired styling web application.
 
 <br><br>
 
