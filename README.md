@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=José%20Gustavo&fontSize=70&animation=twinkling" alt="José Gustavo profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Keysos&fontSize=70&animation=twinkling" alt="José Gustavo profile header" />
 </p>
 
 <h3 align="center">
   <samp>
-    &gt; Hey there! 👋 I am
-    <b><a href="https://github.com/keysos">José Gustavo</a></b>
+    &gt; Hey there! I am
+    <b><a href="https://github.com/keysos">Keysos</a></b>
   </samp>
 </h3>
 
