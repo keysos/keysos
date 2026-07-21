@@ -52,16 +52,49 @@
 
 <p align="center">
 
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<h3>🎬 CineSearch</h3>
+
+React movie search app using OMDb API.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,vite,css" />
+
+<br><br>
+
 <a href="https://github.com/keysos/Movie-App">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=keysos&repo=Movie-App&theme=radical"/>
+<img src="https://img.shields.io/badge/View%20Project-F0544F?style=for-the-badge&logo=github" />
 </a>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>⚡ Pokémon Build Planner</h3>
+
+Pokémon team builder using PokéAPI.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=javascript,html,css" />
+
+<br><br>
 
 <a href="https://github.com/keysos/Pokemon_Build_Planner">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=keysos&repo=Pokemon_Build_Planner&theme=radical"/>
+<img src="https://img.shields.io/badge/View%20Project-3B82F6?style=for-the-badge&logo=github" />
 </a>
 
-</p>
+</td>
 
+</tr>
+</table>
+
+</p>
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com)
 
