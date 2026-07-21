@@ -61,7 +61,7 @@
 
 <h3>🎬 CineSearch</h3>
 
-Movie search application using OMDb API.
+Movie application using TMDb API.
 
 <br><br>
 
