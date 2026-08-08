@@ -42,7 +42,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,html,css,react,nodejs,express,postgres,bash,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=javascript,html,css,react,nodejs,nextjs,typescript,postgres,git,github,vscode" />
 
 </p>
 
