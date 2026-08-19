@@ -13,7 +13,7 @@
 
 <p align="center">
 <samp>
-「 Computer Science student building modern web applications with JavaScript, React and Node.js 」
+「 Computer Science student building modern web applications with TypeScript, React and Node.js 」
 </samp>
 </p>
 
