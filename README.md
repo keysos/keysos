@@ -24,15 +24,6 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/Uj5LJk7GsASkMQqaX3/giphy.gif"
-    width="450"
-    alt="Coding animation"
-  />
-</p>
-
-
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com)
 
 <br>
