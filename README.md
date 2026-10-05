@@ -106,7 +106,7 @@ Book tracking app with reviews, reading goals and reader profiles.
 
 <br><br>
 
-<a href="https://github.com/keysos/LireLibre">
+<a href="https://lire-libre-five.vercel.app">
 <img src="https://img.shields.io/badge/View%20Project-10B981?style=for-the-badge&logo=github" />
 </a>
 
