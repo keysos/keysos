@@ -96,18 +96,18 @@ Pokémon team builder using PokéAPI.
 
 <div align="center">
 
-<h3>📌 Pinterest Project</h3>
+<h3>📚 LireLibre</h3>
 
-Pinterest-inspired styling web application.
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=javascript,html,css" />
+Book tracking app with reviews, reading goals and reader profiles.
 
 <br><br>
 
-<a href="https://github.com/keysos/Pinterest-Project">
-<img src="https://img.shields.io/badge/View%20Project-E60023?style=for-the-badge&logo=github" />
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,supabase" />
+
+<br><br>
+
+<a href="https://github.com/keysos/LireLibre">
+<img src="https://img.shields.io/badge/View%20Project-10B981?style=for-the-badge&logo=github" />
 </a>
 
 </div>
